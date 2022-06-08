@@ -1,11 +1,30 @@
-### Olá! Me chamo Luiz Ricardo, também conhecido como Luisz576, sou um programador e criador de conteúdo de programação e tecnologia!
+<h2>Luiz.programmer</h2>
+
+<pre>
+  <span>Starting "Luiz.programmer"</span>
+  <span>Loading body...</span>
+  <span>Loading skills...</span>
+  <span>Loading personality...</span>
+  <span>Loaded! Starting Luiz v1.8</span>
+  <span>Luiz> Hello World!!!</span>
+</pre>
+
+<span>Olá! Me chamo Luiz Ricardo, também conhecido como Luisz576, sou um programador e criador de conteúdo de programação e tecnologia!</span>
+
 <a href="https://github.com/Luisz576">
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisz576&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisz576&layout=compact&langs_count=7&theme=radical" />
+  <div>
+    <img height="180em" alt="info" src="https://github-readme-stats.vercel.app/api?username=Luisz576&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </div>
+  
+  <div>
+    <img height="180em" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisz576&layout=compact&langs_count=7&theme=radical" />
   </div>
 
-  <div align="center" style="display: inline_block"><br>
+  <div>
+    <h2>Linguagens que curto utilizar ❤️</h2>
+  </div>
+  
+  <div style="display: inline_block"><br>
     <img align="center" alt="Luiz-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Luiz-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -20,7 +39,7 @@
   </div>
 </a>
 
-<div align="center"><br>
+<div><br>
   <a href="https://www.linkedin.com/in/luiz-ricardo-ferlin-alves-30702419b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/Luisz576" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Luisz576" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
