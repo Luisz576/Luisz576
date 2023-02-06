@@ -9,7 +9,7 @@
   <span>Luiz> Hello World!!!</span>
 </pre>
 
-<span>Olá! Me chamo Luiz Ricardo, também conhecido como Luisz576, sou um programador e criador de conteúdo de programação e tecnologia!</span>
+<span>Hello! My name is Luiz Ricardo, also known as Luisz576, I'm a programmer and creator of programming and technology content!</span>
 
 <a href="https://github.com/Luisz576">
   <div>
@@ -21,7 +21,7 @@
   </div>
 
   <div>
-    <h2>Linguagens que curto utilizar ❤️</h2>
+    <h2>Languages I love to use ❤️</h2>
   </div>
   
   <div style="display: inline_block"><br>
